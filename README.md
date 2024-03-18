@@ -6,4 +6,4 @@ The basis of the model is a deep learning architecture based on LSTM cells. Thes
 
 In contrast to numerical weather prediction models, which require several hours of computing time on a supercomputer to produce their forecasts, the sandWind system updates its wind forecasts every 10 minutes. This is possible because the computationally intensive learning of the model takes place once before the actual production of the forecasts. The generation of forecasts, on the other hand, requires little computing power and can therefore be carried out every 10 minutes.
 
-The system currently predicts the average, maximum and minimum wind speed as well as the wind direction for Constance in 10-minute increments up to a forecast horizon of 48 hours. Click [here](https://sandwind.org) to see the forecasts.
+The system currently predicts the average, maximum and minimum wind speed as well as the wind direction for Constance in 10-minute increments up to a forecast horizon of 48 hours. Click [here](http://sandwind.org) to see the forecasts.
